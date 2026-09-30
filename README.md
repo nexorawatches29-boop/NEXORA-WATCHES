@@ -21,3 +21,4 @@ Orders automatically open WhatsApp for:
 ## Change products
 
 Open `script.js` and edit the `products` list to change names, prices and image filenames.
+[image alt]https://share.google/tfosPRUxAoAGS5Wbc
