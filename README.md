@@ -6,7 +6,7 @@ GitHub Pages-ready watch store.
 
 Put your images in the `images` folder with these exact names:
 
-- `watch1.jpg`
+- `watch1.jpg`https://share.google/tfosPRUxAoAGS5Wbc
 - `watch2.jpg`
 - `watch3.jpg`
 - `watch4.jpg`
